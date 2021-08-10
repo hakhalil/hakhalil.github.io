@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Academic</title>
+    <link>https://hakhalil.github.io/publication/</link>
+      <atom:link href="https://hakhalil.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 14 Dec 2020 22:18:17 -0400</lastBuildDate>
+    <image>
+      <url>https://hakhalil.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>https://hakhalil.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>Cell DEVS Models for CO2 Sensors Locations in Closed Spaces</title>
+      <link>https://hakhalil.github.io/publication/cell-devs-models-for-co2-sensors-locations-in-closed-spaces/</link>
+      <pubDate>Mon, 14 Dec 2020 22:18:17 -0400</pubDate>
+      <guid>https://hakhalil.github.io/publication/cell-devs-models-for-co2-sensors-locations-in-closed-spaces/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparing Transition Trees Test Suites Effectiveness for Different Mutation Operators</title>
+      <link>https://hakhalil.github.io/publication/comparing-transition-trees-test-suites-effectiveness-for-different-mutation-operators/</link>
+      <pubDate>Sun, 08 Nov 2020 21:22:19 -0400</pubDate>
+      <guid>https://hakhalil.github.io/publication/comparing-transition-trees-test-suites-effectiveness-for-different-mutation-operators/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CellDEVS for Social Phenomena Modelling</title>
+      <link>https://hakhalil.github.io/publication/celldevs-for-social-phenomena-modelling/</link>
+      <pubDate>Mon, 13 Apr 2020 16:49:07 -0400</pubDate>
+      <guid>https://hakhalil.github.io/publication/celldevs-for-social-phenomena-modelling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On FSM Based Testing an Empirical Study on Complete Round Trip Versus Transition Trees</title>
+      <link>https://hakhalil.github.io/publication/on-fsm-based-testing-an-empirical-study-on-complete-round-trip-versus-transition-trees/</link>
+      <pubDate>Wed, 09 Aug 2017 22:03:12 -0400</pubDate>
+      <guid>https://hakhalil.github.io/publication/on-fsm-based-testing-an-empirical-study-on-complete-round-trip-versus-transition-trees/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An example conference paper</title>
+      <link>https://hakhalil.github.io/publication/example/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://hakhalil.github.io/publication/example/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
