@@ -5,12 +5,28 @@
     <link>https://hakhalil.github.io/publication-type/1/</link>
       <atom:link href="https://hakhalil.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Dr. Hoda Khalil</copyright><lastBuildDate>Mon, 14 Dec 2020 22:18:17 -0400</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Dr. Hoda Khalil</copyright><lastBuildDate>Mon, 19 Jul 2021 23:36:16 -0400</lastBuildDate>
     <image>
       <url>https://hakhalil.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
       <link>https://hakhalil.github.io/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>CD2: an AUTOMATION TOOL for CELL DEVS CO2 DIFFUSION MODELS</title>
+      <link>https://hakhalil.github.io/publication/cd2-an-automation-tool-for-cell-devs-co2-diffusion-models/</link>
+      <pubDate>Mon, 19 Jul 2021 23:36:16 -0400</pubDate>
+      <guid>https://hakhalil.github.io/publication/cd2-an-automation-tool-for-cell-devs-co2-diffusion-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cell-DEVS Models With BIM Integration for Airborne Transmission Spread in Indoor Places</title>
+      <link>https://hakhalil.github.io/publication/cell-devs-models-with-bim-integration-for-airborne-transmission-spread-in-indoor-places/</link>
+      <pubDate>Thu, 15 Apr 2021 23:42:39 -0400</pubDate>
+      <guid>https://hakhalil.github.io/publication/cell-devs-models-with-bim-integration-for-airborne-transmission-spread-in-indoor-places/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Cell DEVS Models for CO2 Sensors Locations in Closed Spaces</title>
@@ -33,6 +49,22 @@
       <link>https://hakhalil.github.io/publication/on-fsm-based-testing-an-empirical-study-on-complete-round-trip-versus-transition-trees/</link>
       <pubDate>Wed, 09 Aug 2017 22:03:12 -0400</pubDate>
       <guid>https://hakhalil.github.io/publication/on-fsm-based-testing-an-empirical-study-on-complete-round-trip-versus-transition-trees/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>State Based Tests Suites Automatic Generation Tool (STAGE-1)</title>
+      <link>https://hakhalil.github.io/publication/state-based-tests-suites-automatic-generation-tool-stage-1/</link>
+      <pubDate>Tue, 04 Jul 2017 23:28:15 -0400</pubDate>
+      <guid>https://hakhalil.github.io/publication/state-based-tests-suites-automatic-generation-tool-stage-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finding All Breadth First Full Spanning Trees in a Directed Graph</title>
+      <link>https://hakhalil.github.io/publication/finding-all-breadth-first-full-spanning-trees-in-a-directed-graph/</link>
+      <pubDate>Tue, 04 Jul 2017 23:21:39 -0400</pubDate>
+      <guid>https://hakhalil.github.io/publication/finding-all-breadth-first-full-spanning-trees-in-a-directed-graph/</guid>
       <description></description>
     </item>
     

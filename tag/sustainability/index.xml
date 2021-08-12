@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sustainability | Hoda Khalil, PhD, EIT</title>
+    <link>https://hakhalil.github.io/tag/sustainability/</link>
+      <atom:link href="https://hakhalil.github.io/tag/sustainability/index.xml" rel="self" type="application/rss+xml" />
+    <description>sustainability</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Dr. Hoda Khalil</copyright><lastBuildDate>Mon, 19 Jul 2021 23:36:16 -0400</lastBuildDate>
+    <image>
+      <url>https://hakhalil.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>sustainability</title>
+      <link>https://hakhalil.github.io/tag/sustainability/</link>
+    </image>
+    
+    <item>
+      <title>CD2: an AUTOMATION TOOL for CELL DEVS CO2 DIFFUSION MODELS</title>
+      <link>https://hakhalil.github.io/publication/cd2-an-automation-tool-for-cell-devs-co2-diffusion-models/</link>
+      <pubDate>Mon, 19 Jul 2021 23:36:16 -0400</pubDate>
+      <guid>https://hakhalil.github.io/publication/cd2-an-automation-tool-for-cell-devs-co2-diffusion-models/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
